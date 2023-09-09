@@ -18,3 +18,7 @@ items[3].style.fontweight = "bold";
 var li = document.querySelectorAll("li");
 li[1].style.backgroundColor = "green";
 li[2].style.textcontent = "invisible";
+
+var li = document.querySelectorAll("li");
+li[1].style.backgroundColor = "green";
+li[2].style.textcontent = "invisible";
